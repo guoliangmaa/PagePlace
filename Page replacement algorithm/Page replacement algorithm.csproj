@@ -138,5 +138,8 @@
   <ItemGroup>
     <None Include="Resources\13.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="readme.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
